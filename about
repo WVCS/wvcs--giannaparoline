@@ -1,19 +1,6 @@
 <htmL> 
-  
-  <body> 
-    
-    <h2> About Gianna <h2> 
-      
-      <h4> 
-        Hi! My name is Gianna Paroline and this is my AP CSP Website Portfolio. <h4> 
-   
-       <h4> To tell you a little about myself, I am 16 years old and a junior at Westview High School. I am currently taking AP CSP, Photography 3/4, and American Lit. Next year as a senior I will be taking AP Psychology, AP Photography, Civics/gov, and EXPOS.
-         <h4> 
-           
-  Within Westview, I am apart of the Body Image Task Force club, and on Varisty Lacrosse and Field Hockey. Outside of school I have played competitive soccer for 11 years. I also am very passionate about photography, fashion, and my little puppy, Lulus. 
 
-
-<body> 
+      <body> 
   <ul> 
     <li><a href="#home">Home</a></li>
     <li><a href="#aboutme">About Me</a> </li>
@@ -22,45 +9,19 @@
   </ul>
   
   
-  <br>
-  <br>
-  <h1> Gianna Paroline's Classes</h1> 
-  <table align="center" id="classes">
-    <tr>
-      <th> Class </th>
-      <th> Teacher </th>
-      <th> Grade </th>
-    </tr>
-    
-   <tr> 
-     <td> Comp Sci Principles </td>
-     <td> Neumann </td>
-     <td> B </td>
-    </tr>
-    
-    <tr> 
-     <td> American Lit </td>
-     <td> Dahl </td>
-     <td> A- </td>
-    </tr>
-    
-    <tr> 
-     <td> Photography 3-4 </td>
-     <td> Layne </td>
-     <td> A+ </td>
-    </tr>
-    
+  <h2> About Gianna <h2> 
+      
+      <h4> 
+        Hi! My name is Gianna Paroline and this is my AP CSP Website Portfolio. <h4> 
    
-  </table>  
-  <br>
-  
- 
-  <p id="cupcakes">
-   <img src="https://3brothersbakery.com/wp-content/uploads/2018/09/CupcakeRegularWhite1.png">
-  
+       <h4> To tell you a little about myself, I am 16 years old and a junior at Westview High School. I am currently taking AP CSP, Photography 3/4, and American Lit. Next year as a senior I will be taking AP Psychology, AP Photography, Civics/gov, and EXPOS.
+         <h4> 
+           
+ <h4> Within Westview, I am apart of the Body Image Task Force club, and on Varisty Lacrosse and Field Hockey. Outside of school I have played competitive soccer for 11 years. I also am very passionate about photography, fashion, and my little puppy, Lulus. <h4> 
 </body>
  
-
-
-
 Resources
+     
+           
+               
+         
