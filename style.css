@@ -1,9 +1,64 @@
 body {
-background-color: Pink; 
-} 
-h4{ 
+  background-color: Pink;
+}
 
-color: purple; 
-font-size: 50px; 
-text-align: center
+h1 {
+  font-size: 300%;
+  color: purple;
+  text-align: center;
+}
 
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 75%;
+  }
+
+td, th {
+  border: 5px solid #D3D3D3;
+  text-align: left;
+  padding: 5px;
+}
+
+tr:nth-child(even) {
+  background-color:white ;
+}
+
+a {
+  color: purple;
+  font-size: 150%;
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  position: fixed;
+  background-color: white;
+  width: 100%;
+  top: 0;
+  left: 0;
+  
+}
+
+li {
+  display: inline;
+  float: left;
+width: 200px;
+padding: 5px;
+margin: 5px;}
+
+li a:hover {
+  background-color: purple;
+  color: black;
+  font-size: 30px;
+}
+
+
+
+Resources
+
+
+
+Resources
