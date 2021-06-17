@@ -55,6 +55,33 @@ li a:hover {
   font-size: 30px;
 }
 
+/*-----------------------------Nav Bar--------------------------------*/
+body { 
+  margin : 0; 
+  font-family: Times New Roman, Nelvetica, sans-serif; 
+} 
+
+ul { 
+  list-style: none; 
+  margin: 0; 
+    padding: 0; 
+  overflow: hidden; 
+  background-color: white;
+} 
+
+li { 
+  float: left; 
+  
+}
+
+li a { 
+  display: block; 
+  color: purple; 
+  text-align: center; 
+  padding: 14px 16px;
+  text-decoration: none; 
+  
+
 
 
 Resources
