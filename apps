@@ -8,9 +8,9 @@
     <!-- NAV BAR--> 
     
     <ul> 
-      <li><a href="index.html">Home</a></li
-      <li><a href="apps">Apps</a></li
-      <li><a href="aboutme">About Me</a></li
+      <li><a href="index.html"> Home </a></li
+      <li><a href="apps"> Apps </a></li
+      <li><a href="aboutme"> About Me </a></li
     </ul>
   
     <body> 
