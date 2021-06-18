@@ -3,9 +3,15 @@ body {
 } 
 
 h1 {
-  color: white 
+  color: white;  
     text-align: center;  
     font-size: 80px; 
+} 
+
+h3 { 
+  color: pink; 
+    text-align: center; 
+  font-size: 25px; 
 } 
 
 /*-----------------------------Nav Bar--------------------------------*/
