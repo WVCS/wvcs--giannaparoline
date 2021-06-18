@@ -78,8 +78,16 @@ li a {
   display: block; 
   color: purple; 
   text-align: center; 
-  padding: 12px 14px;
+  padding: 14px 16px;
   text-decoration: none; 
+  
+  li a: hover:not (.active) { 
+    background-color: #pink
+      
+      .ative { 
+        background-color: #black
+          
+    } 
   
 
 
