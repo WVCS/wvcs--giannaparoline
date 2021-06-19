@@ -9,7 +9,7 @@ h1 {
 } 
 
 h3 { 
-  color: pink; 
+  color: black; 
     text-align: center; 
   font-size: 25px; 
 } 
@@ -54,7 +54,7 @@ li {
 
 li a { 
   display: block; 
-  color: purple; 
+  color: black; 
   text-align: center; 
   padding: 14px 16px;
   text-decoration: none; 
